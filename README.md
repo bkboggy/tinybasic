@@ -1,8 +1,8 @@
-# Modified Tiny BASIC compiler.
+# Modified Tiny BASIC Compiler
 
 Uses Flex and Bison to translate modified tiny basic grammar into C code, which is then passed onto a C compiler to be compiled.
 
-## Modified Tiny BASIC Grammar:
+## Modified Tiny BASIC Grammar
 
 program ::= block
 
